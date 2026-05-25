@@ -1,4 +1,4 @@
-# Polymarket Trading Bot Suite — BTC Arbitrage & AI Agent
+# Polymarket Trading Bot Suite - BTC Arbitrage & AI Agent
 
 **English** | [中文（简体）](README.zh-CN.md) | [Русский](README.ru.md)
 
