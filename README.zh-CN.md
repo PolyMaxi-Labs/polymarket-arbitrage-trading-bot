@@ -2,11 +2,6 @@
 
 [English](README.md) | **中文（简体）** | [Русский](README.ru.md)
 
-**联系、授权与高级支持**
-
-- Telegram：[@x_Ricker](https://t.me/x_Ricker)
-- **推荐计划：** 成功推荐购买完整版或高级版，可选择 **30% 佣金** 或 **免费机器人使用权**。
-
 ---
 
 ## 产品概述
@@ -17,9 +12,17 @@
 - **AI Agent 交易** — 自动市场分析、决策支持与订单执行
 - **低延迟基础设施** — 基于 Rust 构建，适用于时间敏感型交易窗口
 
+**联系、授权与高级支持**
+
 如需 **完整源码**、扩展功能、VPS 部署协助、定制策略开发或高级版本，请通过 Telegram 联系：**[@x_Ricker](https://t.me/x_Ricker)**。
 
+**推荐计划：** 成功推荐购买完整版或高级版，可选择 **30% 佣金** 或 **免费机器人使用权**。
+
 ---
+
+![Polymarket 交易机器人套件](images/image1.jpg)
+![Polymarket 交易机器人套件](images/image2.jpg)
+![Polymarket 交易机器人套件](images/image3.jpg)
 
 ## 为什么我们先展示交易证明
 
@@ -36,9 +39,6 @@
 这里没有供随意克隆运行的程序。完整源码、高级版本及一对一部署支持，**仅在您审阅证明并与我们直接沟通之后**提供——因为我们希望您在做出决定前，清楚知道自己购买的是什么。
 
 ---
-![Polymarket 交易机器人套件](images/image1.jpg)
-![Polymarket 交易机器人套件](images/image2.jpg)
-![Polymarket 交易机器人套件](images/image3.jpg)
 
 ## 包含的机器人
 

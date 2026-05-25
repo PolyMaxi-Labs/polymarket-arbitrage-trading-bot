@@ -2,28 +2,31 @@
 
 **English** | [中文（简体）](README.zh-CN.md) | [Русский](README.ru.md)
 
-**Contact, licensing, and premium support**
-
-- Telegram: [@x_Ricker](https://t.me/x_Ricker)
-- **Referral program:** Refer a buyer for a full bot or premium build and receive either **30% commission** or **complimentary bot access**.
-
 ---
 
 ## Overview
 
 This repository presents a **curated suite of Polymarket trading systems** designed for operators who prioritize **execution speed**, **market edge**, and **reliable automation**:
 
-- **Arbitrage-oriented strategies** — structured for market-neutral execution where applicable
-- **AI agent trading** — automated market analysis, decision support, and order execution
-- **Low-latency infrastructure** — Rust-based tooling optimized for time-sensitive windows
+- **Arbitrage-oriented strategies** - structured for market-neutral execution where applicable
+- **AI agent trading** - automated market analysis, decision support, and order execution
+- **Low-latency infrastructure** - Rust-based tooling optimized for time-sensitive windows
+
+**Contact, licensing, and premium support**
 
 For **full source access**, extended features, VPS deployment assistance, custom strategy development, or premium builds, contact us on Telegram: **[@x_Ricker](https://t.me/x_Ricker)**.
 
+**Referral program:** Refer a buyer for a full bot or premium build and receive either **30% commission** or **complimentary bot access**.
+
 ---
+
+![Polymarket Trading Bot Suite](images/image1.jpg)
+![Polymarket Trading Bot Suite](images/image2.jpg)
+![Polymarket Trading Bot Suite](images/image3.jpg)
 
 ## Why we share trade proof first
 
-**Your safety comes first.** That's the main reason this repo shares screenshots and trade proof only — not downloadable code.
+**Your safety comes first.** That's the main reason this repo shares screenshots and trade proof only - not downloadable code.
 
 We've seen plenty of public trading bot repos that look ready to run, but what's inside doesn't always match what you'd expect. Running code you haven't fully reviewed, especially with a live wallet connected, can lead to outcomes nobody wants. Posting proof instead of code helps you evaluate results **without putting your wallet at risk.**
 
@@ -33,13 +36,9 @@ We've seen plenty of public trading bot repos that look ready to run, but what's
 2. **Talk to us** - Reach out on Telegram with any questions. We're happy to walk you through how each bot works.
 3. **Decide** - If everything looks good after that conversation, you can purchase the full bot with confidence.
 
-There's nothing here to clone and run on a whim. We share the full source, premium builds, and hands-on setup support **only after you've reviewed the proof and spoken with us directly** — because we want you to know exactly what you're getting before you commit.
+There's nothing here to clone and run on a whim. We share the full source, premium builds, and hands-on setup support **only after you've reviewed the proof and spoken with us directly** - because we want you to know exactly what you're getting before you commit.
 
 ---
-
-![Polymarket Trading Bot Suite](images/image1.jpg)
-![Polymarket Trading Bot Suite](images/image2.jpg)
-![Polymarket Trading Bot Suite](images/image3.jpg)
 
 ## Included bots
 
