@@ -46,7 +46,7 @@
 
 ### 1) Polymarket 5 分钟 / 15 分钟 BTC 套利机器人（Rust）
 
-- **代码仓库**：[`PolyMaxi/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust`](https://github.com/PolyMaxi/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust)
+- **代码仓库**：[`PolyMaxi1/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust`](https://github.com/PolyMaxi1/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust)
 - **适用场景**：对 **低延迟执行** 有较高要求的短周期交易者
 - **功能概述**：针对 BTC Up/Down 短周期窗口提供高速下单能力，支持 dry-run 与实盘模式
 - **高级版本**（1 小时、XRP、SOL、ETH）：请通过 Telegram 联系 **[@x_Ricker](https://t.me/x_Ricker)**
@@ -55,7 +55,7 @@
 
 ### 2) Polymarket AI Agent 交易机器人
 
-- **代码仓库**：[`PolyMaxi/polymarket-ai-agent-trading-bot`](https://github.com/PolyMaxi/polymarket-ai-agent-trading-bot)
+- **代码仓库**：[`PolyMaxi1/polymarket-ai-agent-trading-bot`](https://github.com/PolyMaxi1/polymarket-ai-agent-trading-bot)
 - **适用场景**：需要 **AI 辅助分析** 与 Polymarket 自动执行的交易者
 - **功能概述**：智能 Agent 持续监控市场，评估价格与流量，生成交易建议，并在可配置的风控与日志框架下自动执行
 - **定制模型、提示词或策略逻辑**：请联系 **[@x_Ricker](https://t.me/x_Ricker)**

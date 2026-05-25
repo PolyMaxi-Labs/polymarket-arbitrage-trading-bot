@@ -46,7 +46,7 @@ There's nothing here to clone and run on a whim. We share the full source, premi
 
 ### 1) Polymarket 5‑min / 15‑min BTC Arbitrage Bot (Rust)
 
-- **Repository**: [`PolyMaxi/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust`](https://github.com/PolyMaxi/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust)
+- **Repository**: [`PolyMaxi1/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust`](https://github.com/PolyMaxi1/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust)
 - **Ideal for**: Traders requiring **low-latency execution** in short-horizon markets
 - **Summary**: High-speed order placement for BTC Up/Down windows, with configurable dry-run and live trading modes
 - **Premium builds available** (1hr, XRP, SOL, ETH): Contact **[@x_Ricker](https://t.me/x_Ricker)** on Telegram
@@ -55,7 +55,7 @@ There's nothing here to clone and run on a whim. We share the full source, premi
 
 ### 2) Polymarket AI Agent Trading Bot
 
-- **Repository**: [`PolyMaxi/polymarket-ai-agent-trading-bot`](https://github.com/PolyMaxi/polymarket-ai-agent-trading-bot)
+- **Repository**: [`PolyMaxi1/polymarket-ai-agent-trading-bot`](https://github.com/PolyMaxi1/polymarket-ai-agent-trading-bot)
 - **Ideal for**: Traders seeking **AI-assisted analysis** and automated Polymarket execution
 - **Summary**: An intelligent agent that monitors markets, evaluates pricing and flow, generates trade proposals, and executes within configurable risk and logging parameters
 - **Custom models, prompts, or strategy logic**: Contact **[@x_Ricker](https://t.me/x_Ricker)**

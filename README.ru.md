@@ -46,7 +46,7 @@
 
 ### 1) Polymarket 5‑min / 15‑min BTC Arbitrage Bot (Rust)
 
-- **Репозиторий**: [`PolyMaxi/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust`](https://github.com/PolyMaxi/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust)
+- **Репозиторий**: [`PolyMaxi1/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust`](https://github.com/PolyMaxi1/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust)
 - **Подходит для**: Трейдеров, которым необходимо **низколатентное исполнение** на коротких горизонтах
 - **Описание**: Высокоскоростное размещение ордеров для BTC Up/Down окон с настраиваемыми dry-run и live режимами
 - **Премиум-сборки** (1hr, XRP, SOL, ETH): Свяжитесь с **[@x_Ricker](https://t.me/x_Ricker)** в Telegram
@@ -55,7 +55,7 @@
 
 ### 2) Polymarket AI Agent Trading Bot
 
-- **Репозиторий**: [`PolyMaxi/polymarket-ai-agent-trading-bot`](https://github.com/PolyMaxi/polymarket-ai-agent-trading-bot)
+- **Репозиторий**: [`PolyMaxi1/polymarket-ai-agent-trading-bot`](https://github.com/PolyMaxi1/polymarket-ai-agent-trading-bot)
 - **Подходит для**: Трейдеров, которым нужен **AI-анализ** и автоматическое исполнение на Polymarket
 - **Описание**: Интеллектуальный агент мониторит рынки, оценивает ценообразование и flow, формирует торговые предложения и исполняет их в рамках настраиваемых параметров риска и логирования
 - **Кастомные модели, промпты или логика стратегии**: Обращайтесь к **[@x_Ricker](https://t.me/x_Ricker)**
