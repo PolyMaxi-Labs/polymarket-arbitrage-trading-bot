@@ -46,7 +46,7 @@
 
 ### 1) Polymarket 5 分钟 / 15 分钟 BTC 套利机器人（Rust）
 
-- **代码仓库**：[`PolyMaxi1/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust`](https://github.com/PolyMaxi1/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust)
+- **代码仓库**：[`PolyMaxi1/polymarket-crypto-arbitrage-bot`](https://github.com/PolyMaxi1/polymarket-crypto-arbitrage-bot)
 - **适用场景**：对 **低延迟执行** 有较高要求的短周期交易者
 - **功能概述**：针对 BTC Up/Down 短周期窗口提供高速下单能力，支持 dry-run 与实盘模式
 - **高级版本**（1 小时、XRP、SOL、ETH）：请通过 Telegram 联系 **[@x_Ricker](https://t.me/x_Ricker)**
@@ -77,6 +77,14 @@
 成功推荐购买完整版或高级版，可选择 **30% 佣金** 或 **免费机器人使用权**。
 
 如有咨询，请通过 Telegram 联系：**[@x_Ricker](https://t.me/x_Ricker)**。
+
+---
+
+## 推荐 VPS（Polymarket 机器人）
+
+如需稳定 7×24 运行机器人，推荐使用 **[TradingVPS](https://app.tradingvps.io/aff.php?aff=110)** — 面向交易者的低延迟 VPS 平台，**都柏林（Dublin）** 与 **阿姆斯特丹（Amsterdam）** 节点针对 Polymarket 做了优化。平台提供亚毫秒级延迟、稳定在线率，并支持快速部署，适合长期自动化运行。
+
+**立即开通：** [TradingVPS](https://app.tradingvps.io/aff.php?aff=110)
 
 ---
 

@@ -46,7 +46,7 @@
 
 ### 1) Polymarket 5‑min / 15‑min BTC Arbitrage Bot (Rust)
 
-- **Репозиторий**: [`PolyMaxi1/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust`](https://github.com/PolyMaxi1/polymarket-5min-15min-1hr-btc-arbitrage-trading-bot-rust)
+- **Репозиторий**: [`PolyMaxi1/polymarket-crypto-arbitrage-bot`](https://github.com/PolyMaxi1/polymarket-crypto-arbitrage-bot)
 - **Подходит для**: Трейдеров, которым необходимо **низколатентное исполнение** на коротких горизонтах
 - **Описание**: Высокоскоростное размещение ордеров для BTC Up/Down окон с настраиваемыми dry-run и live режимами
 - **Премиум-сборки** (1hr, XRP, SOL, ETH): Свяжитесь с **[@x_Ricker](https://t.me/x_Ricker)** в Telegram
@@ -77,6 +77,14 @@
 Приведите покупателя полной или премиум-версии и получите **30% комиссии** или **бесплатный доступ к боту**.
 
 По вопросам обращайтесь в Telegram: **[@x_Ricker](https://t.me/x_Ricker)**.
+
+---
+
+## Рекомендуемый VPS для Polymarket-ботов
+
+Для стабильной работы ботов 24/7 рекомендуем **[TradingVPS](https://app.tradingvps.io/aff.php?aff=110)** — платформу VPS с низкой задержкой для трейдеров, с локациями **Dublin** и **Amsterdam**, оптимизированными для Polymarket. Суб-1ms задержка, надёжный аптайм и простая настройка для круглосуточной автоматизации.
+
+**Начать:** [TradingVPS](https://app.tradingvps.io/aff.php?aff=110)
 
 ---
 
